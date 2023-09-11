@@ -15,8 +15,8 @@
 
 <!--Intro start-->
 ### About Me
-- Average weeb who likes ricing and programming ( 〃▽〃)
-- My actual OS is Arch _btw_ :xdd:.(″ロ゛)
+- Average weeb who likes ricing and programming.
+- My actual OS is Arch _btw_ :xdd:.
 - I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**.
 - Interests on Pentesting/Web/Mobile/Linux.
 - Contact over discord, preferably ＼(￣▽￣)／
