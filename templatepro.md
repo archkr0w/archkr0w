@@ -11,8 +11,10 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F152840981084595515%2F&psig=AOvVaw0LzYijaN7mtgxW0AAM4eoh&ust=1694485828768000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCKDW9ODBoYEDFQAAAAAdAAAAABAv"/></a>
+  <img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Foyasumi-punpun-goodnight-punpun-japanese-manga-series-punpun-train-gif-17683390&psig=AOvVaw3hed8JIm9uq-tkBxXbtK_M&ust=1694486408888000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCKC8__XDoYEDFQAAAAAdAAAAABAc"
+       alt="sxdness" /></a>
 </div>
+
 
 
 <!--h2 without bottom border-->
@@ -34,8 +36,7 @@
 <!--Intro end-->
 
 
-
-
+-All my thoughts are summarized in...
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
