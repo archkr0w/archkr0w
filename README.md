@@ -19,7 +19,7 @@
 
 - Languages I have worked with **C ,Python ,react-native ,Flutter ,Dart ,PostgreSQL ,HTML ,CSS , Lua, MySQL**
 
-- Actual OS 󰣇 _btw_ :xdd:
+- My actual OS is Arch _btw_ :xdd:
 
 - Contact over discord, preferably ＼(￣▽￣)／
 [**Discord: mxstikr0w**]
