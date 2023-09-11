@@ -15,19 +15,17 @@
 
 <!--Intro start-->
 ### About Me
-
-- I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**
-
-- I have worked with **C ,Python ,react-native ,Flutter ,Dart ,PostgreSQL ,PHP ,HTML ,CSS , Lua and MySQL ಥ_ಥ** 
-
-- My actual OS is Arch _btw_ :xdd: 
-
+- Average weeb who likes ricing and programming ( 〃▽〃)
+- My actual OS is Arch _btw_ :xdd:.(″ロ゛)
+- I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**.
+- Interests on Pentesting/Web/Mobile/Linux.
 - Contact over discord, preferably ＼(￣▽￣)／
-[**Discord: mxstikr0w**]
+[**Discord: mxstikr0w**].
 
 <!--Intro end-->
 
--All my thoughts are summarized in...
+### I have worked in..
+- All my thoughts are summarized in...
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,css,discord,figma,firebase,github,html,java,js,linux,md,mongodb,php,mysql,nextjs,nodejs,py,astro,react,tailwind,ts,flutter,dart,postgres,lua,vscode&perline=14" />
