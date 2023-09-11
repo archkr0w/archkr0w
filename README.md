@@ -17,7 +17,7 @@
 
 - I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**
 
-- I have worked with **C ,Python ,react-native ,Flutter ,Dart ,PostgreSQL ,HTML ,CSS , Lua and MySQL ಥ_ಥ**
+- I have worked with **C ,Python ,react-native ,Flutter ,Dart ,PostgreSQL ,PHP ,HTML ,CSS , Lua and MySQL ಥ_ಥ**
 
 - My actual OS is Arch _btw_ :xdd:
 
