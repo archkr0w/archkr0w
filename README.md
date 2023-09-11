@@ -34,7 +34,7 @@
 -All my thoughts are summarized in...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,discord,figma,firebase,github,html,java,js,kotlin,linux,md,mongodb,mysql,nextjs,nodejs,py,astro,react,tailwind,ts,flutter,dart,postgres,lua,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,discord,figma,firebase,github,html,java,js,kotlin,linux,md,mongodb,php,mysql,nextjs,nodejs,py,astro,react,tailwind,ts,flutter,dart,postgres,lua,vscode&perline=14" />
   </a>
 </p>
 
