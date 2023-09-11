@@ -15,12 +15,15 @@
 
 <!--Intro start-->
 
-- I’m currently learning **JavaScript,Bash,TypeScript and Ruby on Rails ಥ_ಥ**
+- I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**
 
-- 💬 Ask me about **Archbtw :xdd:,C, Python,react-native ,Flutter ,Dart ,PostgreSQL ,HTML ,CSS , Lua, MySQL**
+- Languages I have worked with **C ,Python ,react-native ,Flutter ,Dart ,PostgreSQL ,HTML ,CSS , Lua, MySQL**
 
-- Contact over discord, preferably. Please do not add me just to have me on the friends list.
+- Actual OS 󰣇 _btw_ :xdd:
+
+- Contact over discord, preferably ＼(￣▽￣)／
 [**Discord: mxstikr0w**]
+
 
 
 
