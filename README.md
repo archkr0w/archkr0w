@@ -14,22 +14,19 @@
 </div>
 
 <!--Intro start-->
+### About Me
+- 23yo 
 
 - I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**
 
-- I have worked with **C ,Python ,react-native ,Flutter ,Dart ,PostgreSQL ,PHP ,HTML ,CSS , Lua and MySQL ಥ_ಥ**
+- I have worked with **C ,Python ,react-native ,Flutter ,Dart ,PostgreSQL ,PHP ,HTML ,CSS , Lua and MySQL ಥ_ಥ** 
 
-- My actual OS is Arch _btw_ :xdd:
+- My actual OS is Arch _btw_ :xdd: 
 
 - Contact over discord, preferably ＼(￣▽￣)／
 [**Discord: mxstikr0w**]
 
-
-
-
-
 <!--Intro end-->
-
 
 -All my thoughts are summarized in...
 <p align="center">
