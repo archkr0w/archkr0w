@@ -15,7 +15,6 @@
 
 <!--Intro start-->
 ### About Me
-- 23yo 
 
 - I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**
 
