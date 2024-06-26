@@ -20,7 +20,7 @@
 - I’m currently learning **JavaScript ,Bash ,TypeScript and Ruby on Rails ಥ_ಥ**.
 - Interests on Pentesting/Web/Mobile/Linux.
 - Contact over discord, preferably ＼(￣▽￣)／
-[**Discord: mxstikr0w**].
+[**Discord: kr0wxx**].
 
 <!--Intro end-->
 
