@@ -7,11 +7,7 @@
 ![smaller](https://user-images.githubusercontent.com/96934612/232333246-92ee524b-f696-4a9d-b8cc-a1807f9aae66.png)
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">fxckin weeeeb</h2></summary>
-  </ul>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=62F7A8&random=false&width=435&lines=a+fxcking+weeeeeb)](https://git.io/typing-svg)
 
 <!--Intro start-->
 ### About Me
