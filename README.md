@@ -1,5 +1,6 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![yuichi](https://github.com/archkr0w/archkr0w/assets/126942746/ec4879f1-e2b8-434e-832d-9e77ba36d228)
+
 
 <!--h1 without bottom border-->
 ### Hey 👋
