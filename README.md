@@ -11,7 +11,6 @@
 
 <!--Intro start-->
 ### About Me
-- Average weeb who likes ricing and offensive security enthusiast
 - My actual OS is Arch _btw_ :xdd:
 - Interests on Pentesting/Web/Mobile/Linux.
 - Contact over discord, preferably ＼(￣▽￣)／
