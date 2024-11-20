@@ -11,7 +11,7 @@
 
 <!--Intro start-->
 ### About Me
-- My actual OS is Arch _btw_ :xdd:
+- My actual OS is Arch _btw_ 
 - Interests on Pentesting/Web/Mobile/Linux.
 
 <!--Intro end-->
