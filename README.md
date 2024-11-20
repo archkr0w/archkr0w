@@ -13,8 +13,6 @@
 ### About Me
 - My actual OS is Arch _btw_ :xdd:
 - Interests on Pentesting/Web/Mobile/Linux.
-- Contact over discord, preferably ＼(￣▽￣)／
-[**Discord: kr0wxx**].
 
 <!--Intro end-->
 
