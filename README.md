@@ -20,7 +20,7 @@
 - All my thoughts are summarized in...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,dart,flutter,windows&perline=14" />
   </a>
 </p>
 
