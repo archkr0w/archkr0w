@@ -12,7 +12,7 @@
 <!--Intro start-->
 ### About Me
 - My actual OS is Arch _btw_ 
-- Interests on Pentesting/Web/Mobile/Linux.
+- Interests on Data/Web/Mobile/Linux.
 
 <!--Intro end-->
 
