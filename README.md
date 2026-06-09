@@ -12,8 +12,12 @@
 - All my thoughts are summarized in...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,c,cpp,python,ts,bash,powershell,docker,aws,neovim,vim,visualstudio,vscode,arch,dart,flutter,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,apple,c,cpp,python,ts,bash,powershell,docker,aws,neovim,vim,visualstudio,vscode,arch,dart,flutter,windows&perline=9" />
   </a>
 </p>
 <!--horizontal divider(gradiant)-->
+
+### 📫 Contact
+- Si me quieren contactar por trabajo, colaborar o algo, mándenme un correo a **[archkr0w@proton.me](mailto:archkr0w@proton.me)**
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
