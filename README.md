@@ -40,4 +40,8 @@ focus: backend, devops, cloud
 
 </div>
 
-<h3 align="center">Thanks for Reading &lt;3</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=435&lines=Dear+God%2C+dear+God%2C+tinkle+hoy+%E2%88%86)](https://git.io/typing-svg)
+
+</div>
