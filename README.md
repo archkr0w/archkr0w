@@ -18,14 +18,13 @@
 <!--horizontal divider(gradiant)-->
 
 ### 📫 Contact
-- Si me quieren contactar por trabajo, colaborar o algo, mándenme un correo a **[archkr0w@proton.me](mailto:archkr0w@proton.me)**
 
 <p align="left">
   <a href="https://archkr0w.github.io">
     <img src="https://img.shields.io/badge/Portfolio-b388ff?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/>
   </a>
   <a href="mailto:archkr0w@proton.me">
-    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/archkr0w@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="email"/>
   </a>
 </p>
 
