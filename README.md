@@ -18,6 +18,8 @@
 <!--horizontal divider(gradiant)-->
 
 ### 📫 Contact
-- Si me quieren contactar por trabajo, colaborar o algo, mándenme un correo a **[archkr0w@proton.me](mailto:archkr0w@proton.me)**
+<a href="mailto:archkr0w@proton.me">
+  <img src="https://img.shields.io/badge/archkr0w@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="email"/>
+</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
