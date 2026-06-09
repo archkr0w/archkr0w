@@ -16,7 +16,7 @@ languages: python, typescript, javascript
 learning: ml/ai, devsecops
 status: freelance @ pasquín hasta agosto · open to work
 locations: chile
-hobbies: programming, gaming (mmo), anime/manga, fashion
+hobbies: programming, gaming (mmo), anime/manga, gatos
 favorite.stack: django, docker, aws
 focus: backend, devops, cloud
 ------------------------------------------------------------
@@ -29,6 +29,11 @@ focus: backend, devops, cloud
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,ts,js,docker,aws,gcp,postgres,linux,bash,neovim,git,arch&perline=8" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude code"/>
+  <img src="https://img.shields.io/badge/MCP-b388ff?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="mcp"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
 </p>
 
 <div align="center">
