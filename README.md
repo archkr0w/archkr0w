@@ -16,7 +16,7 @@ languages: python, typescript, javascript
 learning: ml/ai, devsecops
 status: freelance @ pasquín hasta agosto · open to work
 locations: chile
-hobbies: programming, gaming (mmo), anime/manga, gatos
+hobbies: programming, gaming (mmo), anime/manga, fashion
 favorite.stack: django, docker, aws
 focus: backend, devops, cloud
 ------------------------------------------------------------
